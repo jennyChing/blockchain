@@ -1,0 +1,22 @@
+We liquidize Real Estate trading with block chain technology.
+
+Give us your Elevator Pitch - describe your solution*
+To optimize the trading of real estate, we proposed a solution using block chain technology to apply decentralized trading network. We use big data analysis schema to evaluate credits, and space-time grids to identify each right of claim for each real estate. Every real estate item to be rented is an object with unique number. Landlords and tenants with credit records can trade on the network twenty-four-seven. As a consequence, the contracts can be conducted and traded instantly.
+
+What problem are you solving?*
+It takes too much paper work and time to deal with real estate trading. The opacity of transactions causes high risks in the market.
+
+Who is your ideal customer?*
+Tenants, banks, and property owners.
+
+How are you customers solving that problem today?*
+The tenants have to rely on brokers to trade in the market. It usually takes a lot of effort to track down  the trade and credit records.
+
+What is the value to the customer?*
+With the market being more transparent, people can trade properties faster than ever.
+
+What is the value to the Citi or Citi's Sponsors?*
+Citi and its partners will have the right to participate making the new protocol of trading the right of claim for real estate, and deploy their strategies in early stage.
+
+Who are your competitors and how are you different?*
+Factom(factom.org) has showed a lot of potential on using block chain to many aspect, but mature implementation in the right of claim for real estate is rare seen.
